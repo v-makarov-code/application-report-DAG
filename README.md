@@ -4,7 +4,7 @@
 
 ## Структура отчета 
 ![app-report](https://github.com/v-makarov-code/application-report-DAG/blob/main/application_report.png)
-![metrics](https://github.com/v-makarov-code/application-report-DAG/blob/main/metrics_report.png)
+![metrics](https://github.com/v-makarov-code/application-report-DAG/blob/main/metrics_report.png)  
 *Рис1. Пример сформированного отчета в виде сообщения в телеграм*
 
 - Дата за который был сделан отчет
