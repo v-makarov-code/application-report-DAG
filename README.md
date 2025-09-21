@@ -21,3 +21,4 @@
 
 - Python 3.13
 - Apache Airflow 3.0.6
+- Clickhouse
