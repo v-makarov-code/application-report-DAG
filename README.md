@@ -19,6 +19,6 @@
 
 ## Стек 
 
-- Python 3.13
-- Apache Airflow 3.0.6
+- Python 3.13(numpy, pandas, telegram)
+- Apache Airflow 2.2.4
 - Clickhouse
